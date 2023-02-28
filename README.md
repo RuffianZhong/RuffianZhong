@@ -1,8 +1,8 @@
 
 <p align="center">
   <img width="140" src="https://avatars.githubusercontent.com/u/7261019?s=400&u=7e5046d2505ed6f8e2c168bb6f6dfc5df108b63f&v=4" />  
-  <h2 align="center">RuffianZhong</h2>
-  <h4 align="center">幸福别等，世事别怕！</h4>
+  <p><h2 align="center">RuffianZhong</h2></p>
+  <p align="center">幸福别等，世事别怕！</p>
 </p>
 
 
